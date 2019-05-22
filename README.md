@@ -6,14 +6,13 @@ IDOPROFITIDOCOKE Core staging tree 0.12.2.2
 What is IDOPROFITIDOCOKE?
 --------
 
-IDOPROFITIDOCOKE is an experimental new digital currency that enables anonymous, instant payments to anyone, anywhere in the world. IDOPROFITIDOCOKE uses peer-to-peer technology to operate with no central authority: managing transactions and issuing money are carried out collectively by the network. IDOPROFITIDOCOKE Core is the name of the open source software which enables the use of this currency.
-
-For more information, as well as an immediately useable, binary version of the IDOPROFITIDOCOKE Core software, see https://bitcointalk.org/index.php?topic=2272607.0.
+IDOPROFITIDOCOKE is the future
 
 IDOPROFITIDOCOKE Specifications
 --------
 
-- Release date: 15/10/2017 / Premine ~ 4%                          
+- Release date: 22/05/2019 / 
+- Premine ~ 4%                          
 - ASIC resistance                                                 
 - NeoScrypt hashing algorithm                                      
 - Difficulty retargets using Dark Gravity Wave                     
