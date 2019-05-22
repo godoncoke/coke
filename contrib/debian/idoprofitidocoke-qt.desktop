@@ -1,0 +1,12 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=IDOPROFITIDOCOKE
+Comment=IDOPROFITIDOCOKE P2P Cryptocurrency
+Comment[fr]=IDOPROFITIDOCOKE, monnaie virtuelle cryptographique pair à pair
+Comment[tr]=IDOPROFITIDOCOKE, eşten eşe kriptografik sanal para birimi
+Exec=idoprofitidocoke-qt %u
+Terminal=false
+Type=Application
+Icon=idoprofitidocoke128
+MimeType=x-scheme-handler/idoprofitidocoke;
+Categories=Office;Finance;

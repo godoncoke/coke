@@ -1,0 +1,6 @@
+usr/local/bin/idoprofitidocoke-qt usr/bin
+share/pixmaps/idoprofitidocoke32.xpm usr/share/pixmaps
+share/pixmaps/idoprofitidocoke16.xpm usr/share/pixmaps
+share/pixmaps/idoprofitidocoke128.png usr/share/pixmaps
+debian/idoprofitidocoke-qt.desktop usr/share/applications
+debian/idoprofitidocoke-qt.protocol usr/share/kde4/services/
