@@ -1,6 +1,6 @@
 
 
-IDOPROFITIDOCOKE Core staging tree 0.12.2.2
+IDOPROFITIDOCOKE Core staging tree 1.0
 =========================================
 
 What is IDOPROFITIDOCOKE?
