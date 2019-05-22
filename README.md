@@ -1,10 +1,3 @@
-<p align="left">
-  <img src="https://i.imgur.com/s7rXj0A.png" width="100"/>
-</p>
-
-
-[WEBSITE](https://www.idoprofitidocoke-crypto.com/ "idoprofitidocoke-crypto.com") [COINMARKETCAP](https://coinmarketcap.com/currencies/idoprofitidocoke/ "CoinmarketCap") [BITCOINTALK](https://bitcointalk.org/index.php?topic=2272607.0 "Bitcoitalk Forum") [DISCORD](https://coinmarketcap.com/currencies/idoprofitidocoke/ "Discord Live Chat")
-
 
 
 IDOPROFITIDOCOKE Core staging tree 0.12.2.2
